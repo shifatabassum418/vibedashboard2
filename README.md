@@ -195,22 +195,6 @@ Returns server health status.
 - Flexible grid layouts
 - Adaptive typography
 
-## 📸 Screenshots
-
-### Desktop View
-![Desktop View](./screenshots/desktop.png)
-
-### Mobile View
-![Mobile View](./screenshots/mobile.png)
-
-### Search Functionality
-![Search](./screenshots/search.png)
-
-### Loading State
-![Loading](./screenshots/loading.png)
-
-## 🚀 Deployment
-
 ### Frontend (Vercel)
 1. Push your code to GitHub
 2. Go to [Vercel](https://vercel.com)
